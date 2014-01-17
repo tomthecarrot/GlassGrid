@@ -10,5 +10,7 @@ Tutorial:
 4. You can align anything in the real world, such as a picture on a wall.  
 5. Or, you can preview a picture and align it before you take it!  
 
+To uninstall:  
+Open a terminal console or command line and type (without quotes): 'adb uninstall com.carrotcorp.glassgrid'
 
 Licensed under the GNU Affero General Public License v3. See LICENSE file for more information.
