@@ -94,11 +94,11 @@ public class MainActivity extends Activity implements Callback {
 			camera.release();
 			camera = null;
 		}
-		
+
 		if (all) {
 			// Release the wake lock:
 			wl.release();
-			
+
 			// Finish this activity:
 			finish();
 		}
