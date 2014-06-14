@@ -1,6 +1,9 @@
 GlassGrid
 =========
 
+THIS IS A WORK IN PROGRESS (WIP) VERSION OF GLASSGRID!
+IT MAY NOT BE STABLE. PLEASE USE THE MASTER BRANCH INSTEAD!
+
 A simple app for Google Glass that shows a grid on top of camera output for photo alignment. Enjoy!
 
 Tutorial:  
